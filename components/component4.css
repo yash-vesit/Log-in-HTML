@@ -1,0 +1,49 @@
+.component4-container {
+  width: 324px;
+  height: 140px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.component4-text {
+  top: 29px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 217px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component4-text1 {
+  font-weight: 800;
+}
+.component4-pngwing1 {
+  top: 0px;
+  right: 0px;
+  width: 93px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.component4-root-class-name {
+  top: 113px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+.component4-root-class-name1 {
+  top: 113px;
+  left: 43px;
+  position: absolute;
+}

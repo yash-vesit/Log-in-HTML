@@ -1,0 +1,42 @@
+.component3-container {
+  width: 324px;
+  height: 140px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.component3-text {
+  top: 29px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 217px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component3-text1 {
+  font-weight: 800;
+}
+.component3-pngwing1 {
+  top: 0px;
+  right: 0px;
+  width: 93px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.component3-root-class-name {
+  top: 112px;
+  left: 43px;
+  position: absolute;
+}

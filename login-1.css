@@ -1,0 +1,155 @@
+.component2-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.component2-i-phone141 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("public/playground_assets/f9bf0eb9-43b3-4000-a7a1-a647e45a54e8-bz5h-1500h.undefined");
+}
+.component2-shalala1 {
+  flex: 1;
+  width: auto;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+
+.app-component-container {
+  width: 351px;
+  height: 77px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.app-component-text {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.app-component-navlink {
+  display: contents;
+}
+.app-component-component1 {
+  top: 2px;
+  right: 0px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  text-decoration: none;
+}
+.app-component-root-class-name {
+  top: 496px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+
+.component1-container {
+  width: 341px;
+  height: 165px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.component1-image1 {
+  top: 39px;
+  left: 0px;
+  width: 341px;
+  height: 126px;
+  position: absolute;
+  border-color: transparent;
+}
+.component1-text {
+  top: 0px;
+  left: 74px;
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fontdiner Swanky;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.component1-root-class-name {
+  top: 180px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+
+.login1-container {
+  min-height: 100vh;
+}
+.login1-frame1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login1-maskgroup {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login1-component2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
